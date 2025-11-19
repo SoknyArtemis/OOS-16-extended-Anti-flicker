@@ -1,21 +1,22 @@
-# OxygenOS 16 全亮度低频闪
+# OxygenOS 16 Full Brightness Low Flicker
 
-## 📋 模块简介
+## 📋 Module Introduction
 
- - 本 [Magisk](https://github.com/topjohnwu/Magisk) 模块通过修改 `/my_region/etc/extension/com.oplus.oplus-feature.xml` 文件，使 OxygenOS 16 的设置界面显示「全亮度低频闪」选项。
- - 模块模板与特性参数**均参考自酷安大佬「[天伞桜](https://www.coolapk.com/feed/61520805)」**，特此致谢！
+- This [Magisk](https://github.com/topjohnwu/Magisk) module enables the "Full Brightness Low Flicker" option in the OxygenOS 16 settings menu by modifying the `/my_region/etc/extension/com.oplus.oplus-feature.xml` file.
+- The module template and feature parameters are **referenced from the work of CoolApk contributor "[天伞桜](https://www.coolapk.com/feed/61520805)"**. Special thanks!
+- [中文 README](README.zh-CN.md)
 
-## ⚠️ 重要提醒
+## ⚠️ Important Notes
 
-- 本模块为个人学习与分享用途，作者并非专业开发者
-- 目前**仅在本人的 OnePlus 13R（CPH 2691）机型上测试通过**其他 OxygenOS 16 设备仅为理论兼容，本人条件有限，未经过实际验证，请自行确认设备兼容性。
-- 刷入本模块**可能导致设备变砖、系统无法启动或陷入无限重启**等严重问题，请在刷入完整备份重要数据，并自行承担相关风险。如因使用本模块造成任何数据丢失、系统故障或硬件损坏，**本人概不负责**。
+- This module is for personal learning and sharing purposes. The author is not a professional developer.
+- Currently, **tested and working only on the author's OnePlus 13R (CPH 2691)**. Compatibility with other OxygenOS 16 devices is theoretical; the author lacks the means for extensive testing. Please verify device compatibility yourself.
+- Flashing this module **may lead to serious issues** such as bricking your device, system failure, or boot loops. **Please make a full backup of important data before proceeding, and assume all associated risks.** The author **bears no responsibility** for any data loss, system malfunctions, or hardware damage resulting from the use of this module.
 
-## 📄 免责声明
+## 📄 Disclaimer
 
-- 本项目旨在进行技术研究与学习交流，**不涉及任何商业用途**；若任何单位或个人认为本项目内容可能侵犯其合法权益，请及时与我联系，我将根据实际情况迅速采取适当措施。
-- 本人对使用本模块所可能产生的一切后果及影响**不承担任何法律责任。**
+- This project is intended for technical research and learning exchange, **with no commercial use involved**. If any individual or entity believes this project infringes upon their legitimate rights, please contact me promptly. I will take appropriate action based on the actual circumstances.
+- The author **shall not bear any legal responsibility** for any consequences or impacts that may arise from using this module.
 
 ---
 
-*如果您觉得本项目对您有帮助，欢迎点个 Star ⭐ 支持一下！*
+*If you find this project helpful, feel free to give it a Star ⭐!*
