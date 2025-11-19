@@ -2,7 +2,7 @@
 
 ## 📋 Module Introduction
 
-- This [Magisk](https://github.com/topjohnwu/Magisk) module enables the "Full Brightness Low Flicker" option in the OxygenOS 16 settings menu by modifying the `/my_region/etc/extension/com.oplus.oplus-feature.xml` file.
+- This [Magisk](https://github.com/topjohnwu/Magisk) module enables the "Extended-anti-flicker" option in the OxygenOS 16 settings menu by modifying the `/my_region/etc/extension/com.oplus.oplus-feature.xml` file.
 - The module template and feature parameters are **referenced from the work of CoolApk contributor "[天伞桜](https://www.coolapk.com/feed/61520805)"**. Special thanks!
 - [中文 README](README.zh_CN.md)
 
