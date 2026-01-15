@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+	<oplus-feature name="oplus.hardware.display.full_brightness_DC"/>
+	<oplus-feature name="oplus.hardware.display.bl_pwm_dc"/>
+	<oplus-feature name="oplus.software.radio.fetch_number_country_name"/>
+	<oplus-feature name="oplus.software.radio.custom_plmn_for_special_operator"/>
+	<oplus-feature name="oplus.software.radio.mix_sim_name_len_default_ten"/>
+	<oplus-feature name="oplus.software.radio.process_change_region"/>
+	<oplus-feature name="oplus.software.radio.sim_name_length_default_ten"/>
+	<oplus-feature name="oplus.software.radio.mt_optimization"/>
+	<oplus-feature name="oplus.software.radio.data_fast_recovery"/>
+	<oplus-feature name="oplus.software.radio.nhs_disabled_restricted"/>
+	<oplus-feature name="oplus.software.radio.data_limit"/>
+	<oplus-feature name="oplus.software.radio.enable_weak_signal_backoff"/>
+	<oplus-feature name="oplus.software.radio.dds_switch"/>
+	<oplus-feature name="oplus.software.radio.enable_sim_detect"/>
+	<oplus-feature name="oplus.software.sos_special_function"/>
+	<oplus-feature name="oplus.software.radio.sa_apm_control"/>
+	<oplus-feature name="oplus.software.radio.sa_tac_control"/>
+	<oplus-feature name="oplus.software.logkit.ocloud.support"/>
+	<oplus-feature name="oplus.software.radio.apmdm_log_pb"/>
+	<oplus-feature name="oplus.software.radio.stream_identify"/>
+	<oplus-feature name="oplus.software.radio.disable_nw_limit_notify"/>
+	<oplus-feature name="oplus.software.wlan.network_auto_change_default_value_enable_ex"/>
+	<oplus-feature name="oplus.software.wlan.wlan_assistant_default_value_enable_ex"/>
+	<oplus-feature name="oplus.software.power.jobscheduler"/>
+	<oplus-feature name="oplus.software.radio.data_eval4"/>
+	<oplus-feature name="oplus.software.hans_restriction_exp"/>
+	<oplus-feature name="oplus.software.background_start_activity_permission"/>
+	<oplus-feature name="oplus.software.radio.no_5g_event_disabled_for_nsa"/>
+	<unavailable-oplus-feature name="oplus.software.radio.near_comm_shared_support"/>
+</oplus-config>
+<!-- Timestamp 2025-10-17T21:03:34 #3ba29c25-fb64-466f-b384-c0e7b1ca303b -->
